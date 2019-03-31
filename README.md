@@ -1,6 +1,6 @@
 # Project - Acme Photography #
 [Acme Photography](https://psyhedeliq.github.io/photography/)  
-This is a photography website
+This is a photography website.
 
 ## Getting Started ##
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
