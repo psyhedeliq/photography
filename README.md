@@ -36,4 +36,4 @@ Enjoy :)
   
 ## Contributors ##
 
-* Filip Cornel Cristian
+* **Filip Cornel Cristian**
